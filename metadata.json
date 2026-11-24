@@ -1,0 +1,6 @@
+{
+  "name": "Clip Studio AI",
+  "description": "YouTube Video Clipper & Animated Subtitle Studio with AI speech-to-text, viral clip detection, and TikTok/Reels dynamic subtitles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
